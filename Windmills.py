@@ -1,5 +1,7 @@
-#Windmills
-n=6
+#Windmills pattern
+number = input("Enter Number: ")
+n =int(number)
+
 pat ="o "
 mpat="x "
 print("  ")
